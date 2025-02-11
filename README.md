@@ -1,7 +1,7 @@
 # 📊 HR Analytics Dashboard  
 
 ## 📌 Project Overview  
-This project provides a **comprehensive analysis of human resources data**, leveraging **Python, SQL, and Tableau** to extract meaningful insights.  
+This project provides a **comprehensive analysis of human resources data**, leveraging **Python, and Tableau** to extract meaningful insights.  
 The goal is to assist **HR managers, executives, and analysts** in understanding workforce trends, employee performance, salary distribution, and attrition rates.  
 
 Modern HR departments need **data-driven decision-making** to optimize workforce planning, employee retention, and diversity strategies.  
@@ -13,7 +13,7 @@ This dashboard offers **interactive visualizations** that help HR professionals:
 ---
 
 ## 🎯 **Key Objectives**  
-✅ Clean, preprocess, and analyze **HR employee data** using Python & SQL  
+✅ Clean, preprocess, and analyze **HR employee data** using Python 
 ✅ Perform **feature engineering** to extract valuable insights  
 ✅ Develop an **interactive Tableau dashboard** for HR professionals  
 ✅ Identify **key trends** in workforce demographics, salaries, and attrition  
@@ -49,13 +49,13 @@ While this dataset is **artificial**, it is designed to **mimic real HR trends**
 ---
 
 ## 🛠 **Technical Implementation**  
-### **1️⃣ Data Generation & Preprocessing (Python & SQL)**  
+### **1️⃣ Data Generation & Preprocessing (Python)**  
 ✔ Used **Faker library** to generate realistic HR employee records  
 ✔ **Handled missing values** and standardized categorical data  
 ✔ **Normalized salary figures** for better comparison  
 ✔ **Created new features** such as attrition risk scores  
 
-### **2️⃣ Data Analysis (SQL & Python)**  
+### **2️⃣ Data Analysis (Python)**  
 ✔ **Segmented employees** based on **age, gender, department, and job roles**  
 ✔ **Examined salary trends** across different levels of experience  
 ✔ **Identified factors influencing attrition rates**  
